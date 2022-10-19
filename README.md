@@ -13,6 +13,7 @@
 - Jess - Não sei o nome nem o LinkeDin da Jess lol
 - Gustavo Henrique https://www.linkedin.com/in/gustavohenriquess/
 - Patrícia Vilela - https://www.linkedin.com/in/patriciavob/
+- MC: [Pachi Parra ](https://twitter.com/pachicodes)
 
 # Comunidades
 ## Thansfin
