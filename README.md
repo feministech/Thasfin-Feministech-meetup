@@ -9,10 +9,10 @@
 - O que é Open Source e como fazer um PR para contribuir - Patrícia Villela
 
 # Pessoas Palestrantes:
-- Kamila Santos https://www.linkedin.com/in/kamila-santos-oliveira/
-- Jess - Não sei o nome nem o LinkeDin da Jess lol
-- Gustavo Henrique https://www.linkedin.com/in/gustavohenriquess/
-- Patrícia Vilela - https://www.linkedin.com/in/patriciavob/
+- Kamila Santos 
+- Jess 
+- Gustavo Henrique 
+- Patrícia Vilela 
 - MC: [Pachi Parra ](https://twitter.com/pachicodes)
 
 # Comunidades
