@@ -12,11 +12,15 @@
 20:35:  O que é Open Source e como fazer um PR para contribuir - Patrícia Villela
 20:55 Encerramento
 
+# Comunidades
+## Thansfin
+(adicionar descrição e links da comunidade)
 
-
+## Feministech
+(adicionar descrição e links da comunidade)
 
 # Pessoas Palestrantes:
-Kamila Santos https://www.linkedin.com/in/kamila-santos-oliveira/
-Jess - Não sei o nome nem o LinkeDin da Jess lol
-Gustavo Henrique https://www.linkedin.com/in/gustavohenriquess/
-Patrícia Vilela - https://www.linkedin.com/in/patriciavob/
+- Kamila Santos https://www.linkedin.com/in/kamila-santos-oliveira/
+- Jess - Não sei o nome nem o LinkeDin da Jess lol
+- Gustavo Henrique https://www.linkedin.com/in/gustavohenriquess/
+- Patrícia Vilela - https://www.linkedin.com/in/patriciavob/
