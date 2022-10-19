@@ -19,5 +19,5 @@
 ## Thansfin
 (adicionar descrição e links da comunidade)
 
-## Feministech
-(adicionar descrição e links da comunidade)
+## [Feministech](https://feministech.github.io/)
+A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.
